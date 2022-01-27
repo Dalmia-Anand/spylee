@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414946857187",
+    "firebase_url": "https://security-5a07b-default-rtdb.firebaseio.com",
+    "project_id": "security-5a07b",
+    "storage_bucket": "security-5a07b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414946857187:android:ff8c13bda96e45c7c0b5d6",
+        "android_client_info": {
+          "package_name": "com.spylee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414946857187-274h63jtk4aabjj17bgieu3adjj716gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVhO8twJijQffPxq-yUHzZ0ejnqSYHhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414946857187-274h63jtk4aabjj17bgieu3adjj716gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
